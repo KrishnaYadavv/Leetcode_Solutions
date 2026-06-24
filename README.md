@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
