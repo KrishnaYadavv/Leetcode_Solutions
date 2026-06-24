@@ -13,12 +13,12 @@ public:
             else if(nums[mid]>nums[mid-1]&&nums[mid]>nums[mid+1])return mid;
             else if(nums[mid]<nums[high])low=mid+1;
             else if(nums[mid]<nums[low])high=mid-1;
-            else if(nums[mid]>=nums[low]&&nums[mid]>=nums[high]){
+            else if(nums[mid]>=nums[low]||nums[mid]>=nums[high]){
                 low++;
                 high--;
             }
             else{
-                
+
             }
         }
         return -1;
