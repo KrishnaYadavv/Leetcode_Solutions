@@ -1,42 +1,20 @@
 class Solution {
 public:
-    int bS(vector<int>& nums, int i, int j, int target) {
-        int c;
-        if(i>=j){
-            if(nums[i]==target){
-                return i;
+    int search(vector<int>& nums, int target) {
+        int low=0;
+        int high=nums.size()-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]==target)return mid;
+            if(nums[mid]>=nums[low]){
+                if(nums[mid]>target&&nums[low]<=target)high=mid-1;
+                else low=mid+1;
             }
-            return -1;
-        }
-        if (nums[i] == target) {
-            return i;
-        }
-        if (nums[j] == target) {
-            return j;
-        }
-        c = (i + j) / 2;
-        if (nums[c] == target) {
-            return c;
-        }
-        if (nums[c] > nums[i]) {
-            if (target > nums[c] || target < nums[i]) {
-                return bS(nums, c, j, target);
-            } else {
-                return bS(nums, i, c, target);
-            }
-        } else {
-            if (target < nums[c] || target > nums[i]) {
-                return bS(nums, i, c, target);
-            } else {
-                return bS(nums, c, j, target);
+            else{
+                if(nums[mid]<target&&nums[high]>=target)low=mid+1;
+                else high=mid-1;
             }
         }
         return -1;
-    }
-
-    int search(vector<int>& nums, int target) {
-        int i = 0, j;
-        j = nums.size() - 1;
-        return bS(nums, i, j, target);
     }
 };
