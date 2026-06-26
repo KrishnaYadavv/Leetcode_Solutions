@@ -23,7 +23,7 @@ bool possible(vector<int>& weights, int mid, int days){
 }
     int shipWithinDays(vector<int>& weights, int days) {
         int low=1;
-        int high=500;
+        int high=500*weights.size();
         while(low<=high){
             int mid=low+(high-low)/2;
             if(possible(weights,mid,days)){
