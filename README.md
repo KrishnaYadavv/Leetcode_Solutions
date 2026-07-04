@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Dynamic Programming
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
