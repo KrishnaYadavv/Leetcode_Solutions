@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -91,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
