@@ -1,26 +1,23 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        if (n <= 2) return 0;
+        vector<int> primes;
+        vector<bool> isComposite(n);
 
-        vector<bool> isPrime(n, true);
+        for (int i = 2; i < n; i++) {
+            if (!isComposite[i])
+                primes.push_back(i);
 
-        int count = 1;              // Prime 2
+            for (int p : primes) {
+                if (i * p >= n)
+                    break;
 
-        for (int i = 3; i < n; i += 2)
-            isPrime[i] = true;
+                isComposite[i * p] = true;
 
-        for (int i = 3; i * i < n; i += 2) {
-            if (isPrime[i]) {
-                for (int j = i * i; j < n; j += 2 * i)
-                    isPrime[j] = false;
+                if (i % p == 0)
+                    break;
             }
         }
-
-        for (int i = 3; i < n; i += 2)
-            if (isPrime[i])
-                count++;
-
-        return count;
+        return primes.size();
     }
 };
