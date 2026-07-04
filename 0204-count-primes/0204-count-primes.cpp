@@ -4,7 +4,7 @@ public:
         if(n<2)return 0;
         vector<int>nums(n,1);
         for(int i=2;i*i<=n;i++){
-            for(int j=i+i;j<n;j=j+i){
+            for(int j=i*i;j<n;j=j+i){
                 nums[j]=0;
             }
         }
