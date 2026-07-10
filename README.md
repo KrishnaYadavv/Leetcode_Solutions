@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
