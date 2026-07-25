@@ -3,7 +3,7 @@ public:
 
 bool hF(vector<vector<char>>& board, string word,int i,int j,string ans,int count){
     if(ans.size()==word.size()){
-        if(ans==word){
+        if(count==word.size()){
             return true;
         }
         return false;
