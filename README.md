@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0796-rotate-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
 ## Number Theory
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
