@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
