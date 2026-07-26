@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
@@ -172,19 +174,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
