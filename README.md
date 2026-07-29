@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
