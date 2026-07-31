@@ -1,27 +1,27 @@
 class Solution {
 public:
-
-const int offset=1000;
-
-int hF(int i,int sum,int target,vector<int>nums,vector<vector<int>>&dp){
-    if(i>=nums.size()){
-        if(sum==target){
-            return 1;
-        }
-        return 0;
-    }
-    if(dp[i][offset+sum]!=-1){
-        return dp[i][offset+sum];
-    }
-    int a=hF(i+1,sum+nums[i],target,nums,dp);
-    int b=hF(i+1,sum-nums[i],target,nums,dp);
-    return dp[i][offset+sum]=a+b;
-
-}
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        vector<vector<int>>dp(n,vector<int>(2001,-1));
-        return hF(0,0,target,nums,dp);
-        
+        const int OFFSET = 1000;
+        int n = nums.size();
+
+        vector<vector<int>> dp(n + 1, vector<int>(2001, 0));
+
+        dp[n][target + OFFSET] = 1;
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int sum = -1000; sum <= 1000; sum++) {
+                int ways = 0;
+
+                if (sum + nums[i] <= 1000)
+                    ways += dp[i + 1][sum + nums[i] + OFFSET];
+
+                if (sum - nums[i] >= -1000)
+                    ways += dp[i + 1][sum - nums[i] + OFFSET];
+
+                dp[i][sum + OFFSET] = ways;
+            }
+        }
+
+        return dp[0][OFFSET];
     }
 };
