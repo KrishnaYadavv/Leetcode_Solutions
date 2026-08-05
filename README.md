@@ -202,11 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
