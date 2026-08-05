@@ -4,51 +4,50 @@ public:
 
         vector<vector<int>> list(n);
 
-        for(int i=0;i<in.size();i++){
+        for (int i = 0; i < in.size(); i++) {
             list[in[i][0]].push_back(in[i][1]);
         }
 
-        vector<int> vis(n,0);
+        vector<int> vis(n, 0);
         queue<int> q;
 
         q.push(k);
-        vis[k]=-1;
+        vis[k] = -1;
 
-        while(!q.empty()){
-            int val=q.front();
+        while (!q.empty()) {
+            int val = q.front();
             q.pop();
 
-            for(int i=0;i<list[val].size();i++){
-                if(vis[list[val][i]]==0){
-                    vis[list[val][i]]=-1;
+            for (int i = 0; i < list[val].size(); i++) {
+                if (vis[list[val][i]] == 0) {
+                    vis[list[val][i]] = -1;
                     q.push(list[val][i]);
                 }
             }
         }
 
-        int flag=0;
+        int flag = 0;
 
-        for(int i=0;i<in.size();i++){
-            int u=in[i][0];
-            int v=in[i][1];
+        for (int i = 0; i < in.size(); i++) {
+            int u = in[i][0];
+            int v = in[i][1];
 
-            if(vis[u]==0 && vis[v]==-1){
-                flag=1;
+            if (vis[u] == 0 && vis[v] == -1) {
+                flag = 1;
                 break;
             }
         }
 
         vector<int> ans;
 
-        if(flag==0){
-            for(int i=0;i<n;i++){
-                if(vis[i]==0){
+        if (flag == 0) {
+            for (int i = 0; i < n; i++) {
+                if (vis[i] == 0) {
                     ans.push_back(i);
                 }
             }
-        }
-        else{
-            for(int i=0;i<n;i++){
+        } else {
+            for (int i = 0; i < n; i++) {
                 ans.push_back(i);
             }
         }
