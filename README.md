@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0796-rotate-string) |
+| [1092-shortest-common-supersequence](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
+| [1092-shortest-common-supersequence](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 ## Greedy
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
