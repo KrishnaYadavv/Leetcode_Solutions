@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0072-edit-distance) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
