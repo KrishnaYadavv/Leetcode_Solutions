@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1695-maximum-erasure-value](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
