@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [1695-maximum-erasure-value](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1695-maximum-erasure-value) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Linked List
 |  |
 | ------- |
