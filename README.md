@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0796-rotate-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
