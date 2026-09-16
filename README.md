@@ -310,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
