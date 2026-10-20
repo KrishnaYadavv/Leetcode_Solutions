@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3886-sum-of-sortable-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
