@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [3665-twisted-mirror-path-count](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0079-word-search) |
+| [3665-twisted-mirror-path-count](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Counting Sort
 |  |
 | ------- |
