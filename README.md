@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0858-mirror-reflection](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 | [1140-stone-game-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 ## Stack
 |  |
 | ------- |
@@ -355,4 +357,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
