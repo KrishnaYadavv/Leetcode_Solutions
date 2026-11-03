@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/0858-mirror-reflection) |
 | [1140-stone-game-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/KrishnaYadavv/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
